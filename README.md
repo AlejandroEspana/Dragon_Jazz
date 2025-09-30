@@ -1,2 +1,1 @@
-
-To get started, take a look at src/app/page.tsx.
+Este es el proyecto entregable para el reproductor de musica
